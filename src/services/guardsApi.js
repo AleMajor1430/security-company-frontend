@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8000/api';
+const API_URL = 'https://security-company-backend.vercel.app/api';
 
 // Create an axios instance with default config
 const api = axios.create({
